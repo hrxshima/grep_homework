@@ -41,13 +41,10 @@ grep -e "мир" -e "инструмент" example.txt
 Теперь, когда вы ознакомились с основами работы команды grep, выполните следующее задание:
 1. Создайте файл data.txt и заполните его данными о ваших любимых книгах (название, автор, год издания).
 2. Напишите команду, которая найдет все книги, изданные в 20-м веке.
-3. Посчитайте количество книг, написанных автором, имя которого начинается на букву "Д".
-4. Напишите команду, которая выведет все книги в формате:
-```
-Название книги (Год издания)
-```
+3. Напишите команду, которая найдет все книги, изданные в период с 2000 по 2023 год:
+4. Посчитайте количество книг, написанных автором, имя которого начинается на букву "Д".
+
 ## Ссылки на материалы
 1. [Grep Command Tutorial with Examples for Beginners. ](https://ostechnix.com/the-grep-command-tutorial-with-examples-for-beginners/)
 2. [Linux Grep Command Examples. ](https://linuxblog.io/grep-command-in-linux-w-examples/)
 3. [How to Use the Grep Command in Linux. ](https://www.hostinger.com/tutorials/grep-command-in-linux)
-
